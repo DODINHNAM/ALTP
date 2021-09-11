@@ -1,0 +1,90 @@
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.AssemblyReference.cache
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.ALTP.resources
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Game.resources
+C:\Users\dodin\Downloads\hoctap\windown\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.GameALTP.resources
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.ALTP.resources
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Game.resources
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.GameALTP.resources
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+C:\Users\admin\Desktop\WINDOWS\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.AssemblyReference.cache
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.ALTP.resources
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Game.resources
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.GameALTP.resources
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+C:\Users\dodin\Downloads\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csprojAssemblyReference.cache
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.ALTP.resources
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Game.resources
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.GameALTP.resources
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+E:\Windows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.ALTP.resources
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Game.resources
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.GameALTP.resources
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+C:\Users\admin\Desktop\AiLaTrieuPhu\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.AssemblyReference.cache
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Admin.resources
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.GameALTP.resources
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Main.resources
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.User.resources
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\Interop.WMPLib.dll
+D:\hoctap\windown\BTLWindows\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.ResolveComReference.cache
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe.config
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.AssemblyReference.cache
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\Interop.WMPLib.dll
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.ResolveComReference.cache
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Admin.resources
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Main.resources
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.User.resources
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.GameALTP.resources
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+C:\Users\dodin\Downloads\Nhóm 2 -Xây dựng trò chơi “ai là triệu phú”\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
